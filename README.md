@@ -11,3 +11,4 @@
 |    Member 3     | S Harini                | CB.SC.U4CSE26243       |  FEMALE         |   CSE                           |  Hostel (Mythreyi bhavanam)  |
 |    Member 4     | R Rohit                 | CB.SC.U4CSE26344       |  MALE           |   CSE                           |  Hostel (Kashyapa bhavanam)  |
 
+## GENESIS 2026 Ideathon Video Presentation : [Presentation](https://youtu.be/hAUOLr60qDc)
